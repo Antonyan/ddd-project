@@ -1,4 +1,14 @@
 {
+    "name": "antonyan/ddd-project",
+    "description": "DDD project skeleton",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artem Antonenko",
+            "email": "antonenko.artem@gmail.com"
+        }
+    ],
     "require": {
         "symfony/http-foundation": "^4.1",
         "symfony/routing": "^4.1",
