@@ -38,5 +38,6 @@
     "require-dev": {
         "codeception/codeception": "2.*",
         "phpunit/phpunit": "6.*"
-    }
+    },
+    "minimum-stability": "stable"
 }
